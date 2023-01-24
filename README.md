@@ -1,1 +1,1 @@
-# DIgitial-Signal-Processing
+# Digitial-Signal-Processing
